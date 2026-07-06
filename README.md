@@ -66,7 +66,7 @@ The Arduino continuously monitors the connected sensors.
 
 ### Internal Circuit Setup
 
-![Circuit ] ()
+![Circuit ] (https://github.com/rnaveenprakash3bec28-arch/Smart-Home-Autonomous-Real-Time-Monitoring-and-Actuation/blob/main/Circuit%20setup.jpg)
 
 ### Working Model
 
