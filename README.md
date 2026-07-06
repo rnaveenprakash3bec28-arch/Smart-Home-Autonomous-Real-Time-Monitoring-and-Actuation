@@ -60,9 +60,9 @@ The Arduino continuously monitors the connected sensors.
 
 ## 📷 Project Images
 
-### Front View
+### Top View
 
-![Front View](Front_View.jpg)
+![Top View](Topview.jpg)
 
 ### Internal Circuit Setup
 
