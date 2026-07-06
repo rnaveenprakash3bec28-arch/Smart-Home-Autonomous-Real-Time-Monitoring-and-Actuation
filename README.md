@@ -70,7 +70,7 @@ The Arduino continuously monitors the connected sensors.
 
 ### Working Model
 
-![Working Model](Working_Model.jpg)
+![Working Model](Working model.jpg)
 
 ---
 
