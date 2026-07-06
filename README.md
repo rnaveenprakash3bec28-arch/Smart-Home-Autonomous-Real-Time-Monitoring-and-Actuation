@@ -66,7 +66,7 @@ The Arduino continuously monitors the connected sensors.
 
 ### Internal Circuit Setup
 
-![Circuit Setup](Circuit_Setup.jpg)
+![Circuit ] (Circuit setup.jpg)
 
 ### Working Model
 
