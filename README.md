@@ -1,12 +1,12 @@
-# 🏠 Smart Home Automation with Real-Time Monitoring and Actuation
+#  Smart Home Automation with Real-Time Monitoring and Actuation
 
-## 📌 Overview
+##  Overview
 
 This project presents a Smart Home Automation System using Arduino that provides real-time monitoring and automatic control of home appliances. The system uses multiple sensors to monitor environmental conditions and actuates devices such as lights, fans, and doors based on sensor readings. It improves convenience, safety, and energy efficiency in a smart home environment.
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 - Develop an intelligent home automation system.
 - Monitor environmental conditions in real time.
@@ -16,7 +16,7 @@ This project presents a Smart Home Automation System using Arduino that provides
 
 ---
 
-## 🛠️ Components Used
+##  Components Used
 
 - Arduino Uno
 - Servo Motor
@@ -33,7 +33,7 @@ This project presents a Smart Home Automation System using Arduino that provides
 
 ---
 
-## ⚙️ Working Principle
+##  Working Principle
 
 The Arduino continuously monitors the connected sensors.
 
@@ -46,7 +46,7 @@ The Arduino continuously monitors the connected sensors.
 
 ---
 
-## ✨ Features
+##  Features
 
 - Real-time environmental monitoring
 - Automatic door control
@@ -58,7 +58,7 @@ The Arduino continuously monitors the connected sensors.
 
 ---
 
-## 📷 Project Images
+##  Project Images
 
 ### Top View
 
@@ -66,7 +66,7 @@ The Arduino continuously monitors the connected sensors.
 
 ### Internal Circuit Setup
 
-![Circuit ] (https://github.com/rnaveenprakash3bec28-arch/Smart-Home-Autonomous-Real-Time-Monitoring-and-Actuation/blob/main/Circuit%20setup.jpg)
+![Circuit ](https://github.com/rnaveenprakash3bec28-arch/Smart-Home-Autonomous-Real-Time-Monitoring-and-Actuation/blob/main/Circuit%20setup.jpg)
 
 ### Working Model
 
@@ -74,13 +74,13 @@ The Arduino continuously monitors the connected sensors.
 
 ---
 
-## 📄 Project Report
+## Project Report
 
 The complete project documentation is available in **Report.pdf**.
 
 ---
 
-## 🎓 Applications
+## Applications
 
 - Smart Homes
 - Home Security
@@ -90,7 +90,7 @@ The complete project documentation is available in **Report.pdf**.
 
 ---
 
-## 🚀 Future Enhancements
+## Future Enhancements
 
 - Wi-Fi based remote monitoring
 - Mobile application control
@@ -101,7 +101,7 @@ The complete project documentation is available in **Report.pdf**.
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Naveen Prakash R**
 
